@@ -12,4 +12,4 @@ Add following to <tt>src/plugins/CMakeLists.txt</tt>:
 SUBDIRS (vfk)
 </pre>
 
-Additional info at (in Czech): http://grass.fsv.cvut.cz/gwiki/QGIS_VFK_Plugin
+Additional info at (in Czech): http://freegis.fsv.cvut.cz/gwiki/VFK_/_QGIS_plugin
